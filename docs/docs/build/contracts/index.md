@@ -4,7 +4,7 @@
 
 ### BOB Core Contracts (L2)
 
-- [Light Relay](/docs/build/bob-sdk/relay) Relay: [`0x9fe7ef727da3d79e0308ff43f31ea1d077ee9f41`](https://explorer.gobob.xyz/address/0x9fe7ef727da3d79e0308ff43f31ea1d077ee9f41)
+- [Light Relay](/docs/build/bob-sdk/relay): [`0x9fe7ef727da3d79e0308ff43f31ea1d077ee9f41`](https://explorer.gobob.xyz/address/0x9fe7ef727da3d79e0308ff43f31ea1d077ee9f41)
 - [Gateway](/docs/build/bob-sdk/gateway): [`0xcc2c1d45A3ECeEdec364a6B9e537AE97Fa20bEa7`](https://explorer.gobob.xyz/address/0xcc2c1d45A3ECeEdec364a6B9e537AE97Fa20bEa7)
 - [Gateway](/docs/build/bob-sdk/gateway) Registry: [`0xAE6770a207E86FaE3b191564FA55ce7Bfee0Dde9`](https://explorer.gobob.xyz/address/0xAE6770a207E86FaE3b191564FA55ce7Bfee0Dde9)
 
